@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\bin\Release\SistemaProduccion.exe.config
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Main.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Paneles.Analisis_Inventario.pnl_analisis_de_inventario.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Paneles.GestionOperaciones.datosArbolEstructurado.frmDemo.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Paneles.GestionOperaciones.datosArbolEstructurado.pnlItemArbolEstruct.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Paneles.TmpPanelAlex.pnlGestionOperaciones.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Paneles.Gestion_Inventario.Modelo_P.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Paneles.Gestion_Inventario.Modelo_Q.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Paneles.pnl_gestion_inventario.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Presentacion.Paneles.Planeacion_agregada.Pnl_planeacion_agregada.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.Properties.Resources.resources
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.csproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\SistemaProduccion\SistemaProduccion\SistemaProduccion\obj\Release\SistemaProduccion.exe.licenses

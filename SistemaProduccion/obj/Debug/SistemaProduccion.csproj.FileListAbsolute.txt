@@ -1,0 +1,3 @@
+C:\Users\hp-pc\Desktop\SISTEMA FINAL PRODUCCION III\SISTEMA FINAL DEFINITIVO\CODIGO\SistemaProduccion\SistemaProduccion\bin\Debug\SistemaProduccion.exe.config
+C:\Users\hp-pc\Desktop\SISTEMA FINAL PRODUCCION III\SISTEMA FINAL DEFINITIVO\CODIGO\SistemaProduccion\SistemaProduccion\obj\Debug\SistemaProduccion.exe
+C:\Users\hp-pc\Desktop\SISTEMA FINAL PRODUCCION III\SISTEMA FINAL DEFINITIVO\CODIGO\SistemaProduccion\SistemaProduccion\obj\Debug\SistemaProduccion.pdb
